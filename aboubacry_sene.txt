@@ -1,0 +1,50 @@
+  130  ssh-keygen -t ed25519 -C "msene@aimsammi.org"
+  131  git config -l
+  132  cd AMMI-git
+  133  git pull
+  134  git push origin main
+  135  git push origin main
+  136  git pull
+  137  git pull
+  138  git config --global --list
+  139  git log
+  140  git push
+  141  cd
+  142  history >indentity.txt
+  143  cd AMMI-git
+  144  cat identity.txt
+  145  cat> identity.txt
+  146  touch command.txt
+  147  ls
+  148  history >command.txt
+  149  rm -r command.tx
+  150  rm command.tx
+  151  rm -rf command.txt
+  152  ls
+  153  touch MbaraganeAboubacrySENE.txt
+  154  history >MbarganeAboubacrySENE.txt
+  155  claer
+  156  clear
+  157  cd
+  158  clear
+  159  pwd
+  160  ls
+  161  cd Doc
+  162  cd Documents
+  163  mkdir AMMI-git
+  164  cd AMMI-git
+  165  mkdir aboubacrySENE
+  166  cd ..
+  167  mkdir AMMI-first
+  168  mv AMMI-first AMMI-git
+  169  cd AMMI-git
+  170  ls
+  171  touch identity.txt
+  172  nano identity.txt
+  173  git init
+  174  git add --all
+  175  git status
+  176  git commit -m "first commit"
+  177  git branch -M main
+  178  git remote add origin https://github.com/mbargane93/Git-assignment.git
+  179  git push -u origin main
